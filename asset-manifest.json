@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reactwebsite/static/css/main.afdcdcf6.css",
+    "main.js": "/Reactwebsite/static/js/main.22c4a685.js",
+    "static/js/787.436daf27.chunk.js": "/Reactwebsite/static/js/787.436daf27.chunk.js",
+    "static/media/marketing.png": "/Reactwebsite/static/media/marketing.fb169be4d574d29c8030.png",
+    "static/media/development.png": "/Reactwebsite/static/media/development.c613acf0de1202ffac0b.png",
+    "static/media/web.png": "/Reactwebsite/static/media/web.0a4893421f4eb80a395c.png",
+    "static/media/App.png": "/Reactwebsite/static/media/App.ae411bf4d64da3b3a63d.png",
+    "static/media/abouts.png": "/Reactwebsite/static/media/abouts.fbd49cb7e8976f0772bb.png",
+    "static/media/Logo.png": "/Reactwebsite/static/media/Logo.4c0796ec0e6d7beb4577.png",
+    "index.html": "/Reactwebsite/index.html",
+    "main.afdcdcf6.css.map": "/Reactwebsite/static/css/main.afdcdcf6.css.map",
+    "main.22c4a685.js.map": "/Reactwebsite/static/js/main.22c4a685.js.map",
+    "787.436daf27.chunk.js.map": "/Reactwebsite/static/js/787.436daf27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdcdcf6.css",
+    "static/js/main.22c4a685.js"
+  ]
+}
