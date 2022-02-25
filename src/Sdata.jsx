@@ -7,7 +7,7 @@ const Sdata = [
     {
         imgsrc: Web,
         title: "Web Development",
-        description: "The world of Web Development", 
+        description: "The world of Web Development",
     },
     {
         imgsrc: Mobile,
@@ -17,7 +17,7 @@ const Sdata = [
     {
         imgsrc: Digital,
         title: "Digital Marketing",
-        description: "The world of Digital Marketing"
+        description: "The world of Digital Marketing",
     },
    
 ]

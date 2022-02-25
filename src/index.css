@@ -162,7 +162,7 @@ button{
   }
 }
 
-#para .go{
+.go{
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -175,7 +175,7 @@ button{
   text-decoration: none;
 }
 
-#para .go:hover{
+.go:hover{
   background-color: #3498db;
   color: #fff;
 }
@@ -199,3 +199,8 @@ button{
   font-weight: bold;
 }
 
+.setStyle2{
+  padding-bottom: 70px;
+  font-display: center;
+  margin-bottom: 10px;
+}

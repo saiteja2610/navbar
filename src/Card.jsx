@@ -16,12 +16,10 @@ const Card = (props) => {
   <div className="card-body">
     <h5 className="card-title font-weight-bold">{props.title}</h5>
     <p className="card-text">{props.description}</p>
-    <NavLink to="#" className="btn btn-primary"> Go! </NavLink>
-  </div>
-                                </div>
-                            </div>
-                       
-            
+    <NavLink to="/" className="btn btn-primary"> Go! </NavLink>
+        </div>
+    </div>
+</div>
         </>
     );
 }
